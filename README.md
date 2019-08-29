@@ -7,3 +7,8 @@ after 'i', go title of the output. Its colored with accent color, no user firstl
 There are pre-added exceptons, like `print('!Error', 'notice me!');`. In that case is used `console.error();`.
 
 Please, dont judge also my shit english, i know its bad
+
+![FirstScreenshot](https://raw.githubusercontent.com/AlexBesida/PrintJS/master/SS1.png)
+![SecondScreenshot](https://raw.githubusercontent.com/AlexBesida/PrintJS/master/SS2.png)
+
+###### [ Its completely unserious project/file/repo/idea ]
